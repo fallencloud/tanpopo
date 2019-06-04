@@ -5,3 +5,5 @@ This is a fan project for Tanpopo Ramen in Newport News, VA. This is a full-stac
 ##Tasks
 
 1. Initialize app and create Firebase database.
+2. Clean up base app and add Bootstrap and Font Awesome.
+3. Create Navbar and initialize React Router.
